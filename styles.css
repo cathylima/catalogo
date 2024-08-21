@@ -1,3 +1,4 @@
+
 body {
     color: rgb(0, 0, 0);
     background: rgba(243, 127, 49, 0.582);
@@ -7,7 +8,7 @@ body {
 }
 
 header {
-    border-bottom: solid 2px rgb(255, 150, 89);
+    border-bottom: solid 2px rgba(247, 183, 146, 0.644);
     padding: 20px;
     font-size: 32px;
     color: rgb(0, 0, 0);
